@@ -1,0 +1,2 @@
+E:\PracticeFramework\OpenCartEcommerceProject
+mvn test
