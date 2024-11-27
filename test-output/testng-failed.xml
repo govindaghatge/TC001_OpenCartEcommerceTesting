@@ -8,13 +8,13 @@
     <parameter name="os" value="Windows"/>
     <parameter name="browser" value="Chrome"/>
     <classes>
-      <class name="TestCases.TC004_LoginDDT">
+      <class name="TestCases.TC002_VerifyLoginFunctionality">
         <methods>
           <include name="Setup"/>
           <include name="Teardown"/>
-          <include name="verify_loginDDT" invocation-numbers="0"/>
+          <include name="Verify_LoginFunctionality"/>
         </methods>
-      </class> <!-- TestCases.TC004_LoginDDT -->
+      </class> <!-- TestCases.TC002_VerifyLoginFunctionality -->
     </classes>
   </test> <!-- Testng(failed) -->
 </suite> <!-- Failed suite [Suite] -->

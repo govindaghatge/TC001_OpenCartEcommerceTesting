@@ -13,10 +13,10 @@
    <parameter name="os" value="Windows"/>
    
    <classes>
-     <class name ="TestCases.TC001_VerifyAccountRegistration"/>
-     <class name="TestCases.TC002_VerifyLoginFunctionality"/>
-     <class name="TestCases.TC003_VerifyProductSearchFunctionality"/>
-     <class name="TestCases.TC004_LoginDDT"/>
+      <class name ="TestCases.TC001_VerifyAccountRegistration"/>
+      <class name="TestCases.TC002_VerifyLoginFunctionality"/> 
+      <class name="TestCases.TC003_VerifyProductSearchFunctionality"/>
+      <class name="TestCases.TC004_LoginDDT"/>
    </classes>
   
   </test> <!-- Testng -->

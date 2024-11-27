@@ -58,3 +58,31 @@
 2024-11-28 00:53:59 INFO  TC004_LoginDDT:18 - ***** stating TC_003_LoginDDT ******
 2024-11-28 00:54:10 INFO  TC004_LoginDDT:18 - ***** stating TC_003_LoginDDT ******
 2024-11-28 00:54:12 INFO  TC004_LoginDDT:18 - ***** stating TC_003_LoginDDT ******
+2024-11-28 01:34:00 INFO  Utils:112 - [TestNG] Running:
+  E:\PracticeFramework\OpenCartEcommerceProject\testng.xml
+
+2024-11-28 01:34:05 INFO  TC002_VerifyLoginFunctionality:15 - ****Starting Login Process****
+2024-11-28 01:34:06 INFO  TC002_VerifyLoginFunctionality:21 - ****clicked on MyAccount link****
+2024-11-28 01:34:06 INFO  TC002_VerifyLoginFunctionality:24 - ****clicked on Login link****
+2024-11-28 01:34:06 INFO  TC002_VerifyLoginFunctionality:27 - ****Entering Login details****
+2024-11-28 01:34:06 INFO  TC002_VerifyLoginFunctionality:32 - ****Clicked on Login button****
+2024-11-28 01:34:16 INFO  TC002_VerifyLoginFunctionality:49 - ***** Finished TC002_AccountRegistrationTest *****
+2024-11-28 01:34:19 INFO  TC003_VerifyProductSearchFunctionality:18 - ****Starting Login Process****
+2024-11-28 01:34:20 INFO  TC003_VerifyProductSearchFunctionality:25 - ****clicked on MyAccount link****
+2024-11-28 01:34:20 INFO  TC003_VerifyProductSearchFunctionality:28 - ****clicked on Login link****
+2024-11-28 01:34:20 INFO  TC003_VerifyProductSearchFunctionality:31 - ****Entering Login details****
+2024-11-28 01:34:21 INFO  TC003_VerifyProductSearchFunctionality:36 - ****Clicked on Login button****
+2024-11-28 01:34:21 INFO  TC003_VerifyProductSearchFunctionality:39 - ****Started searching for Product****
+2024-11-28 01:34:22 INFO  TC003_VerifyProductSearchFunctionality:48 - ****Clicked on AddToCart Button****
+2024-11-28 01:34:22 INFO  TC003_VerifyProductSearchFunctionality:52 - Test passed
+2024-11-28 01:34:22 INFO  TC003_VerifyProductSearchFunctionality:63 - *****TC003_VerifyProductSearchFunctionality*****
+2024-11-28 01:36:58 INFO  Utils:112 - [TestNG] Running:
+  E:\PracticeFramework\OpenCartEcommerceProject\testng.xml
+
+2024-11-28 01:37:01 INFO  TC002_VerifyLoginFunctionality:15 - ****Starting Login Process****
+2024-11-28 01:37:01 INFO  TC002_VerifyLoginFunctionality:21 - ****clicked on MyAccount link****
+2024-11-28 01:37:02 INFO  TC002_VerifyLoginFunctionality:24 - ****clicked on Login link****
+2024-11-28 01:37:02 INFO  TC002_VerifyLoginFunctionality:27 - ****Entering Login details****
+2024-11-28 01:37:03 INFO  TC002_VerifyLoginFunctionality:32 - ****Clicked on Login button****
+2024-11-28 01:37:03 INFO  TC002_VerifyLoginFunctionality:38 - Test passed
+2024-11-28 01:37:03 INFO  TC002_VerifyLoginFunctionality:49 - ***** Finished TC002_AccountRegistrationTest *****

@@ -26,7 +26,7 @@ public class TC002_VerifyLoginFunctionality extends BaseTest
 			      LoginPage lp = new LoginPage(driver);
 			      logger.info("****Entering Login details****");
 			      lp.SetEmail(p.getProperty("email"));
-			      lp.SetPassword("password");
+			      lp.SetPassword(p.getProperty("password"));
 			      
 			      lp.ClkLogin();
 			      logger.info("****Clicked on Login button****");
