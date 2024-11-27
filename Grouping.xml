@@ -5,6 +5,7 @@
 
    <groups>
   	   <run>
+  	     <include name="Sanity"/>
   	     <include name="Master"/>
   	   </run>
    </groups>
@@ -19,7 +20,8 @@
    <parameter name="os" value="Windows"/>
    
    <classes>
-     <class name = "TestCases.TC001_AccountRegistration"/>
+     <class name = "TestCases.TC001_VerifyAccountRegistration"/>
+     <class name="TestCases.TC002_VerifyLoginFunctionality"/>
    </classes>
   
   </test> <!-- Testng -->

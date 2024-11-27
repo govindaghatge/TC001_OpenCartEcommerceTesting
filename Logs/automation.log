@@ -1,445 +1,60 @@
-2024-11-27 00:10:47 INFO  Utils:112 - [TestNG] Running:
+2024-11-28 00:42:08 INFO  Utils:112 - [TestNG] Running:
   E:\PracticeFramework\OpenCartEcommerceProject\testng.xml
 
-2024-11-27 00:11:05 INFO  TC001_AccountRegistration:15 - ****Starting_Registration****
-2024-11-27 00:11:05 INFO  TC001_AccountRegistration:21 - ****clicked on MyAccount link****
-2024-11-27 00:11:06 INFO  TC001_AccountRegistration:24 - ****clicked on Register link****
-2024-11-27 00:11:06 INFO  TC001_AccountRegistration:28 - ****Entering_User_info****
-2024-11-27 00:11:06 INFO  TC001_AccountRegistration:39 - ****click on policy****
-2024-11-27 00:11:06 INFO  TC001_AccountRegistration:42 - ****click on Continue****
-2024-11-27 00:11:06 INFO  TC001_AccountRegistration:44 - Validating expected message..
-2024-11-27 00:11:16 INFO  TC001_AccountRegistration:59 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-27 00:13:12 INFO  Utils:112 - [TestNG] Running:
+2024-11-28 00:42:16 INFO  TC001_VerifyAccountRegistration:15 - ****Starting_Registration****
+2024-11-28 00:42:16 INFO  TC001_VerifyAccountRegistration:21 - ****clicked on MyAccount link****
+2024-11-28 00:42:17 INFO  TC001_VerifyAccountRegistration:24 - ****clicked on Register link****
+2024-11-28 00:42:17 INFO  TC001_VerifyAccountRegistration:28 - ****Entering_User_info****
+2024-11-28 00:42:17 INFO  TC001_VerifyAccountRegistration:39 - ****click on policy****
+2024-11-28 00:42:18 INFO  TC001_VerifyAccountRegistration:42 - ****click on Continue****
+2024-11-28 00:42:18 INFO  TC001_VerifyAccountRegistration:44 - Validating expected message..
+2024-11-28 00:42:18 INFO  TC001_VerifyAccountRegistration:48 - Test passed
+2024-11-28 00:42:18 INFO  TC001_VerifyAccountRegistration:59 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-28 00:42:21 INFO  TC002_VerifyLoginFunctionality:15 - ****Starting Login Process****
+2024-11-28 00:42:21 INFO  TC002_VerifyLoginFunctionality:21 - ****clicked on MyAccount link****
+2024-11-28 00:42:21 INFO  TC002_VerifyLoginFunctionality:24 - ****clicked on Login link****
+2024-11-28 00:42:21 INFO  TC002_VerifyLoginFunctionality:27 - ****Entering Login details****
+2024-11-28 00:42:22 INFO  TC002_VerifyLoginFunctionality:32 - ****Clicked on Login button****
+2024-11-28 00:42:32 INFO  TC002_VerifyLoginFunctionality:49 - ***** Finished TC002_AccountRegistrationTest *****
+2024-11-28 00:42:35 INFO  TC003_VerifyProductSearchFunctionality:18 - ****Starting Login Process****
+2024-11-28 00:42:35 INFO  TC003_VerifyProductSearchFunctionality:25 - ****clicked on MyAccount link****
+2024-11-28 00:42:35 INFO  TC003_VerifyProductSearchFunctionality:28 - ****clicked on Login link****
+2024-11-28 00:42:35 INFO  TC003_VerifyProductSearchFunctionality:31 - ****Entering Login details****
+2024-11-28 00:42:36 INFO  TC003_VerifyProductSearchFunctionality:36 - ****Clicked on Login button****
+2024-11-28 00:42:36 INFO  TC003_VerifyProductSearchFunctionality:39 - ****Started searching for Product****
+2024-11-28 00:42:37 INFO  TC003_VerifyProductSearchFunctionality:48 - ****Clicked on AddToCart Button****
+2024-11-28 00:42:37 INFO  TC003_VerifyProductSearchFunctionality:52 - Test passed
+2024-11-28 00:42:37 INFO  TC003_VerifyProductSearchFunctionality:63 - *****TC003_VerifyProductSearchFunctionality*****
+2024-11-28 00:42:41 INFO  TC004_LoginDDT:18 - ***** stating TC_003_LoginDDT ******
+2024-11-28 00:42:53 INFO  TC004_LoginDDT:18 - ***** stating TC_003_LoginDDT ******
+2024-11-28 00:42:54 INFO  TC004_LoginDDT:18 - ***** stating TC_003_LoginDDT ******
+2024-11-28 00:42:56 INFO  TC004_LoginDDT:18 - ***** stating TC_003_LoginDDT ******
+2024-11-28 00:43:07 INFO  TC004_LoginDDT:18 - ***** stating TC_003_LoginDDT ******
+2024-11-28 00:43:09 INFO  TC004_LoginDDT:18 - ***** stating TC_003_LoginDDT ******
+2024-11-28 00:46:28 INFO  Utils:112 - [TestNG] Running:
   E:\PracticeFramework\OpenCartEcommerceProject\testng.xml
 
-2024-11-27 00:15:28 INFO  Utils:112 - [TestNG] Running:
+2024-11-28 00:46:33 INFO  TC004_LoginDDT:18 - ***** stating TC_003_LoginDDT ******
+2024-11-28 00:46:44 INFO  TC004_LoginDDT:18 - ***** stating TC_003_LoginDDT ******
+2024-11-28 00:46:46 INFO  TC004_LoginDDT:18 - ***** stating TC_003_LoginDDT ******
+2024-11-28 00:46:47 INFO  TC004_LoginDDT:18 - ***** stating TC_003_LoginDDT ******
+2024-11-28 00:46:58 INFO  TC004_LoginDDT:18 - ***** stating TC_003_LoginDDT ******
+2024-11-28 00:47:00 INFO  TC004_LoginDDT:18 - ***** stating TC_003_LoginDDT ******
+2024-11-28 00:47:35 INFO  Utils:112 - [TestNG] Running:
   E:\PracticeFramework\OpenCartEcommerceProject\testng.xml
 
-2024-11-27 00:15:32 INFO  TC001_AccountRegistration:15 - ****Starting_Registration****
-2024-11-27 00:15:32 INFO  TC001_AccountRegistration:21 - ****clicked on MyAccount link****
-2024-11-27 00:15:33 INFO  TC001_AccountRegistration:24 - ****clicked on Register link****
-2024-11-27 00:15:33 INFO  TC001_AccountRegistration:28 - ****Entering_User_info****
-2024-11-27 00:15:33 INFO  TC001_AccountRegistration:39 - ****click on policy****
-2024-11-27 00:15:33 INFO  TC001_AccountRegistration:42 - ****click on Continue****
-2024-11-27 00:15:33 INFO  TC001_AccountRegistration:44 - Validating expected message..
-2024-11-27 00:15:37 INFO  TC001_AccountRegistration:59 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-27 00:17:12 INFO  Utils:112 - [TestNG] Running:
+2024-11-28 00:47:40 INFO  TC004_LoginDDT:18 - ***** stating TC_003_LoginDDT ******
+2024-11-28 00:47:51 INFO  TC004_LoginDDT:18 - ***** stating TC_003_LoginDDT ******
+2024-11-28 00:47:53 INFO  TC004_LoginDDT:18 - ***** stating TC_003_LoginDDT ******
+2024-11-28 00:47:55 INFO  TC004_LoginDDT:18 - ***** stating TC_003_LoginDDT ******
+2024-11-28 00:48:06 INFO  TC004_LoginDDT:18 - ***** stating TC_003_LoginDDT ******
+2024-11-28 00:48:07 INFO  TC004_LoginDDT:18 - ***** stating TC_003_LoginDDT ******
+2024-11-28 00:53:47 INFO  Utils:112 - [TestNG] Running:
   E:\PracticeFramework\OpenCartEcommerceProject\testng.xml
 
-2024-11-27 00:17:16 INFO  TC001_AccountRegistration:15 - ****Starting_Registration****
-2024-11-27 00:17:16 INFO  TC001_AccountRegistration:21 - ****clicked on MyAccount link****
-2024-11-27 00:17:17 INFO  TC001_AccountRegistration:24 - ****clicked on Register link****
-2024-11-27 00:17:17 INFO  TC001_AccountRegistration:28 - ****Entering_User_info****
-2024-11-27 00:17:17 INFO  TC001_AccountRegistration:39 - ****click on policy****
-2024-11-27 00:17:19 INFO  TC001_AccountRegistration:42 - ****click on Continue****
-2024-11-27 00:17:19 INFO  TC001_AccountRegistration:44 - Validating expected message..
-2024-11-27 00:17:19 INFO  TC001_AccountRegistration:48 - Test passed
-2024-11-27 00:17:19 INFO  TC001_AccountRegistration:59 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-27 00:17:55 INFO  Utils:112 - [TestNG] Running:
-  E:\PracticeFramework\OpenCartEcommerceProject\Grouping.xml
-
-2024-11-27 00:18:00 INFO  TC001_AccountRegistration:15 - ****Starting_Registration****
-2024-11-27 00:18:00 INFO  TC001_AccountRegistration:21 - ****clicked on MyAccount link****
-2024-11-27 00:18:01 INFO  TC001_AccountRegistration:24 - ****clicked on Register link****
-2024-11-27 00:18:01 INFO  TC001_AccountRegistration:28 - ****Entering_User_info****
-2024-11-27 00:18:02 INFO  TC001_AccountRegistration:39 - ****click on policy****
-2024-11-27 00:18:02 INFO  TC001_AccountRegistration:42 - ****click on Continue****
-2024-11-27 00:18:02 INFO  TC001_AccountRegistration:44 - Validating expected message..
-2024-11-27 00:18:02 INFO  TC001_AccountRegistration:48 - Test passed
-2024-11-27 00:18:02 INFO  TC001_AccountRegistration:59 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-27 00:28:28 INFO  Utils:112 - [TestNG] Running:
-  E:\PracticeFramework\OpenCartEcommerceProject\CrossBrowsing.xml
-
-2024-11-27 00:28:32 INFO  TC001_AccountRegistration:15 - ****Starting_Registration****
-2024-11-27 00:28:32 INFO  TC001_AccountRegistration:21 - ****clicked on MyAccount link****
-2024-11-27 00:28:32 INFO  TC001_AccountRegistration:15 - ****Starting_Registration****
-2024-11-27 00:28:33 INFO  TC001_AccountRegistration:24 - ****clicked on Register link****
-2024-11-27 00:28:33 INFO  TC001_AccountRegistration:28 - ****Entering_User_info****
-2024-11-27 00:28:33 INFO  TC001_AccountRegistration:21 - ****clicked on MyAccount link****
-2024-11-27 00:28:34 INFO  TC001_AccountRegistration:24 - ****clicked on Register link****
-2024-11-27 00:28:34 INFO  TC001_AccountRegistration:28 - ****Entering_User_info****
-2024-11-27 00:28:34 ERROR TC001_AccountRegistration:53 - Test failed: stale element reference: stale element not found
-  (Session info: chrome=131.0.6778.86)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
-Build info: version: '4.20.0', revision: '866c76ca80'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [1133d1306c21bdb0fe3371c0e224d2a8, sendKeysToElement {value=[Ljava.lang.CharSequence;@48848345, id=f.A001C1E1FECA72E042BF27FA63D426F4.d.DE6C19F127AF112F1C8852B944396F8D.e.87}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.86, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\asus\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59853}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59853/devtoo..., se:cdpVersion: 131.0.6778.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Element: [[ChromeDriver: chrome on windows (1133d1306c21bdb0fe3371c0e224d2a8)] -> xpath: //input[@id='input-lastname']]
-Session ID: 1133d1306c21bdb0fe3371c0e224d2a8
-2024-11-27 00:28:34 INFO  TC001_AccountRegistration:59 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-27 00:28:34 ERROR TC001_AccountRegistration:53 - Test failed: Error communicating with the remote browser. It may have died.
-Build info: version: '4.20.0', revision: '866c76ca80'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [1133d1306c21bdb0fe3371c0e224d2a8, findElement [value, using]]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.86, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\asus\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59853}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59853/devtoo..., se:cdpVersion: 131.0.6778.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 1133d1306c21bdb0fe3371c0e224d2a8
-2024-11-27 00:28:34 INFO  TC001_AccountRegistration:59 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-27 00:28:51 INFO  Utils:112 - [TestNG] Running:
-  E:\PracticeFramework\OpenCartEcommerceProject\CrossBrowsing.xml
-
-2024-11-27 00:28:51 INFO  TC001_AccountRegistration:15 - ****Starting_Registration****
-2024-11-27 00:28:51 ERROR TC001_AccountRegistration:53 - Test failed: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
-2024-11-27 00:28:51 INFO  TC001_AccountRegistration:59 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-27 00:28:54 INFO  TC001_AccountRegistration:15 - ****Starting_Registration****
-2024-11-27 00:28:54 INFO  TC001_AccountRegistration:21 - ****clicked on MyAccount link****
-2024-11-27 00:28:55 INFO  TC001_AccountRegistration:24 - ****clicked on Register link****
-2024-11-27 00:28:55 INFO  TC001_AccountRegistration:28 - ****Entering_User_info****
-2024-11-27 00:28:56 INFO  TC001_AccountRegistration:39 - ****click on policy****
-2024-11-27 00:28:57 INFO  TC001_AccountRegistration:42 - ****click on Continue****
-2024-11-27 00:28:57 INFO  TC001_AccountRegistration:44 - Validating expected message..
-2024-11-27 00:28:57 INFO  TC001_AccountRegistration:48 - Test passed
-2024-11-27 00:28:57 INFO  TC001_AccountRegistration:59 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-27 00:29:53 INFO  Utils:112 - [TestNG] Running:
-  E:\PracticeFramework\OpenCartEcommerceProject\CrossBrowsing.xml
-
-2024-11-27 00:29:53 INFO  TC001_AccountRegistration:15 - ****Starting_Registration****
-2024-11-27 00:29:53 ERROR TC001_AccountRegistration:53 - Test failed: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
-2024-11-27 00:29:53 INFO  TC001_AccountRegistration:59 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-27 00:29:57 INFO  TC001_AccountRegistration:15 - ****Starting_Registration****
-2024-11-27 00:29:57 INFO  TC001_AccountRegistration:21 - ****clicked on MyAccount link****
-2024-11-27 00:29:58 INFO  TC001_AccountRegistration:24 - ****clicked on Register link****
-2024-11-27 00:29:58 INFO  TC001_AccountRegistration:28 - ****Entering_User_info****
-2024-11-27 00:29:58 INFO  TC001_AccountRegistration:39 - ****click on policy****
-2024-11-27 00:29:59 INFO  TC001_AccountRegistration:42 - ****click on Continue****
-2024-11-27 00:29:59 INFO  TC001_AccountRegistration:44 - Validating expected message..
-2024-11-27 00:30:00 INFO  TC001_AccountRegistration:48 - Test passed
-2024-11-27 00:30:00 INFO  TC001_AccountRegistration:59 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-27 00:33:30 INFO  Utils:112 - [TestNG] Running:
-  E:\PracticeFramework\OpenCartEcommerceProject\CrossBrowsing.xml
-
-2024-11-27 00:33:31 INFO  TC001_AccountRegistration:15 - ****Starting_Registration****
-2024-11-27 00:33:31 ERROR TC001_AccountRegistration:53 - Test failed: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
-2024-11-27 00:33:31 INFO  TC001_AccountRegistration:59 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-27 00:33:34 INFO  TC001_AccountRegistration:15 - ****Starting_Registration****
-2024-11-27 00:33:35 INFO  TC001_AccountRegistration:21 - ****clicked on MyAccount link****
-2024-11-27 00:33:35 INFO  TC001_AccountRegistration:24 - ****clicked on Register link****
-2024-11-27 00:33:35 INFO  TC001_AccountRegistration:28 - ****Entering_User_info****
-2024-11-27 00:33:36 INFO  TC001_AccountRegistration:39 - ****click on policy****
-2024-11-27 00:33:36 INFO  TC001_AccountRegistration:42 - ****click on Continue****
-2024-11-27 00:33:36 INFO  TC001_AccountRegistration:44 - Validating expected message..
-2024-11-27 00:33:36 INFO  TC001_AccountRegistration:48 - Test passed
-2024-11-27 00:33:36 INFO  TC001_AccountRegistration:59 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-27 00:33:57 INFO  Utils:112 - [TestNG] Running:
-  E:\PracticeFramework\OpenCartEcommerceProject\CrossBrowsing.xml
-
-2024-11-27 00:33:58 INFO  TC001_AccountRegistration:15 - ****Starting_Registration****
-2024-11-27 00:33:58 ERROR TC001_AccountRegistration:53 - Test failed: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
-2024-11-27 00:33:58 INFO  TC001_AccountRegistration:59 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-27 00:34:03 INFO  TC001_AccountRegistration:15 - ****Starting_Registration****
-2024-11-27 00:34:03 INFO  TC001_AccountRegistration:21 - ****clicked on MyAccount link****
-2024-11-27 00:34:03 INFO  TC001_AccountRegistration:24 - ****clicked on Register link****
-2024-11-27 00:34:03 INFO  TC001_AccountRegistration:28 - ****Entering_User_info****
-2024-11-27 00:34:04 INFO  TC001_AccountRegistration:39 - ****click on policy****
-2024-11-27 00:34:05 INFO  TC001_AccountRegistration:42 - ****click on Continue****
-2024-11-27 00:34:05 INFO  TC001_AccountRegistration:44 - Validating expected message..
-2024-11-27 00:34:05 INFO  TC001_AccountRegistration:48 - Test passed
-2024-11-27 00:34:05 INFO  TC001_AccountRegistration:59 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-27 00:34:55 INFO  Utils:112 - [TestNG] Running:
-  E:\PracticeFramework\OpenCartEcommerceProject\CrossBrowsing.xml
-
-2024-11-27 00:34:55 INFO  TC001_AccountRegistration:15 - ****Starting_Registration****
-2024-11-27 00:34:55 ERROR TC001_AccountRegistration:53 - Test failed: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
-2024-11-27 00:34:55 INFO  TC001_AccountRegistration:59 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-27 00:34:59 INFO  TC001_AccountRegistration:15 - ****Starting_Registration****
-2024-11-27 00:34:59 INFO  TC001_AccountRegistration:21 - ****clicked on MyAccount link****
-2024-11-27 00:34:59 INFO  TC001_AccountRegistration:24 - ****clicked on Register link****
-2024-11-27 00:34:59 INFO  TC001_AccountRegistration:28 - ****Entering_User_info****
-2024-11-27 00:35:00 INFO  TC001_AccountRegistration:39 - ****click on policy****
-2024-11-27 00:35:04 INFO  TC001_AccountRegistration:42 - ****click on Continue****
-2024-11-27 00:35:04 INFO  TC001_AccountRegistration:44 - Validating expected message..
-2024-11-27 00:35:04 INFO  TC001_AccountRegistration:48 - Test passed
-2024-11-27 00:35:04 INFO  TC001_AccountRegistration:59 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-27 00:36:20 INFO  Utils:112 - [TestNG] Running:
-  E:\PracticeFramework\OpenCartEcommerceProject\CrossBrowsing.xml
-
-2024-11-27 00:36:20 INFO  TC001_AccountRegistration:15 - ****Starting_Registration****
-2024-11-27 00:36:20 ERROR TC001_AccountRegistration:53 - Test failed: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
-2024-11-27 00:36:20 INFO  TC001_AccountRegistration:59 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-27 00:36:55 INFO  Utils:112 - [TestNG] Running:
-  E:\PracticeFramework\OpenCartEcommerceProject\Grouping.xml
-
-2024-11-27 00:37:01 INFO  TC001_AccountRegistration:15 - ****Starting_Registration****
-2024-11-27 00:37:02 INFO  TC001_AccountRegistration:21 - ****clicked on MyAccount link****
-2024-11-27 00:37:02 INFO  TC001_AccountRegistration:24 - ****clicked on Register link****
-2024-11-27 00:37:02 INFO  TC001_AccountRegistration:28 - ****Entering_User_info****
-2024-11-27 00:37:03 INFO  TC001_AccountRegistration:39 - ****click on policy****
-2024-11-27 00:37:04 INFO  TC001_AccountRegistration:42 - ****click on Continue****
-2024-11-27 00:37:04 INFO  TC001_AccountRegistration:44 - Validating expected message..
-2024-11-27 00:37:04 INFO  TC001_AccountRegistration:48 - Test passed
-2024-11-27 00:37:04 INFO  TC001_AccountRegistration:59 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-27 00:37:19 INFO  Utils:112 - [TestNG] Running:
-  E:\PracticeFramework\OpenCartEcommerceProject\testng.xml
-
-2024-11-27 00:37:22 INFO  TC001_AccountRegistration:15 - ****Starting_Registration****
-2024-11-27 00:37:22 INFO  TC001_AccountRegistration:21 - ****clicked on MyAccount link****
-2024-11-27 00:37:23 INFO  TC001_AccountRegistration:24 - ****clicked on Register link****
-2024-11-27 00:37:23 INFO  TC001_AccountRegistration:28 - ****Entering_User_info****
-2024-11-27 00:37:24 INFO  TC001_AccountRegistration:39 - ****click on policy****
-2024-11-27 00:37:25 INFO  TC001_AccountRegistration:42 - ****click on Continue****
-2024-11-27 00:37:25 INFO  TC001_AccountRegistration:44 - Validating expected message..
-2024-11-27 00:37:25 INFO  TC001_AccountRegistration:48 - Test passed
-2024-11-27 00:37:25 INFO  TC001_AccountRegistration:59 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-27 00:38:44 INFO  Utils:112 - [TestNG] Running:
-  E:\PracticeFramework\OpenCartEcommerceProject\testng.xml
-
-2024-11-27 00:38:48 INFO  TC001_AccountRegistration:15 - ****Starting_Registration****
-2024-11-27 00:38:48 INFO  TC001_AccountRegistration:21 - ****clicked on MyAccount link****
-2024-11-27 00:38:48 INFO  TC001_AccountRegistration:24 - ****clicked on Register link****
-2024-11-27 00:38:48 INFO  TC001_AccountRegistration:28 - ****Entering_User_info****
-2024-11-27 00:38:49 INFO  TC001_AccountRegistration:39 - ****click on policy****
-2024-11-27 00:38:50 INFO  TC001_AccountRegistration:42 - ****click on Continue****
-2024-11-27 00:38:50 INFO  TC001_AccountRegistration:44 - Validating expected message..
-2024-11-27 00:38:50 INFO  TC001_AccountRegistration:59 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-27 00:41:22 INFO  Utils:112 - [TestNG] Running:
-  E:\PracticeFramework\OpenCartEcommerceProject\testng.xml
-
-2024-11-27 00:41:26 INFO  TC001_AccountRegistration:15 - ****Starting_Registration****
-2024-11-27 00:41:26 INFO  TC001_AccountRegistration:21 - ****clicked on MyAccount link****
-2024-11-27 00:41:27 INFO  TC001_AccountRegistration:24 - ****clicked on Register link****
-2024-11-27 00:41:27 INFO  TC001_AccountRegistration:28 - ****Entering_User_info****
-2024-11-27 00:41:27 INFO  TC001_AccountRegistration:39 - ****click on policy****
-2024-11-27 00:41:28 INFO  TC001_AccountRegistration:42 - ****click on Continue****
-2024-11-27 00:41:28 INFO  TC001_AccountRegistration:44 - Validating expected message..
-2024-11-27 00:41:28 INFO  TC001_AccountRegistration:59 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-27 00:44:15 INFO  Utils:112 - [TestNG] Running:
-  E:\PracticeFramework\OpenCartEcommerceProject\testng.xml
-
-2024-11-27 00:44:18 INFO  TC001_AccountRegistration:15 - ****Starting_Registration****
-2024-11-27 00:44:18 INFO  TC001_AccountRegistration:21 - ****clicked on MyAccount link****
-2024-11-27 00:44:19 INFO  TC001_AccountRegistration:24 - ****clicked on Register link****
-2024-11-27 00:44:19 INFO  TC001_AccountRegistration:28 - ****Entering_User_info****
-2024-11-27 00:44:20 INFO  TC001_AccountRegistration:39 - ****click on policy****
-2024-11-27 00:44:20 INFO  TC001_AccountRegistration:42 - ****click on Continue****
-2024-11-27 00:44:20 INFO  TC001_AccountRegistration:44 - Validating expected message..
-2024-11-27 00:44:20 INFO  TC001_AccountRegistration:59 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-27 00:45:09 INFO  Utils:112 - [TestNG] Running:
-  E:\PracticeFramework\OpenCartEcommerceProject\testng.xml
-
-2024-11-27 00:45:13 INFO  TC001_AccountRegistration:15 - ****Starting_Registration****
-2024-11-27 00:45:13 INFO  TC001_AccountRegistration:21 - ****clicked on MyAccount link****
-2024-11-27 00:45:14 INFO  TC001_AccountRegistration:24 - ****clicked on Register link****
-2024-11-27 00:45:14 INFO  TC001_AccountRegistration:28 - ****Entering_User_info****
-2024-11-27 00:45:14 INFO  TC001_AccountRegistration:39 - ****click on policy****
-2024-11-27 00:45:15 INFO  TC001_AccountRegistration:42 - ****click on Continue****
-2024-11-27 00:45:15 INFO  TC001_AccountRegistration:44 - Validating expected message..
-2024-11-27 00:45:15 INFO  TC001_AccountRegistration:59 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-27 00:48:42 INFO  Utils:112 - [TestNG] Running:
-  E:\PracticeFramework\OpenCartEcommerceProject\testng.xml
-
-2024-11-27 00:48:46 INFO  TC001_AccountRegistration:15 - ****Starting_Registration****
-2024-11-27 00:48:46 INFO  TC001_AccountRegistration:21 - ****clicked on MyAccount link****
-2024-11-27 00:48:47 INFO  TC001_AccountRegistration:24 - ****clicked on Register link****
-2024-11-27 00:48:47 INFO  TC001_AccountRegistration:28 - ****Entering_User_info****
-2024-11-27 00:48:47 INFO  TC001_AccountRegistration:39 - ****click on policy****
-2024-11-27 00:48:48 INFO  TC001_AccountRegistration:42 - ****click on Continue****
-2024-11-27 00:48:48 INFO  TC001_AccountRegistration:44 - Validating expected message..
-2024-11-27 00:48:48 INFO  TC001_AccountRegistration:48 - Test passed
-2024-11-27 00:48:48 INFO  TC001_AccountRegistration:59 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-27 01:53:23 INFO  Utils:112 - [TestNG] Running:
-  E:\PracticeFramework\OpenCartEcommerceProject\CrossBrowsing.xml
-
-2024-11-27 01:53:29 INFO  TC001_AccountRegistration:15 - ****Starting_Registration****
-2024-11-27 01:53:29 INFO  TC001_AccountRegistration:21 - ****clicked on MyAccount link****
-2024-11-27 01:53:29 INFO  TC001_AccountRegistration:24 - ****clicked on Register link****
-2024-11-27 01:53:29 INFO  TC001_AccountRegistration:28 - ****Entering_User_info****
-2024-11-27 01:53:30 INFO  TC001_AccountRegistration:39 - ****click on policy****
-2024-11-27 01:53:31 INFO  TC001_AccountRegistration:42 - ****click on Continue****
-2024-11-27 01:53:31 INFO  TC001_AccountRegistration:44 - Validating expected message..
-2024-11-27 01:53:31 INFO  TC001_AccountRegistration:48 - Test passed
-2024-11-27 01:53:31 INFO  TC001_AccountRegistration:59 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-27 01:53:58 INFO  Utils:112 - [TestNG] Running:
-  E:\PracticeFramework\OpenCartEcommerceProject\CrossBrowsing.xml
-
-2024-11-27 01:54:02 INFO  TC001_AccountRegistration:15 - ****Starting_Registration****
-2024-11-27 01:54:03 INFO  TC001_AccountRegistration:21 - ****clicked on MyAccount link****
-2024-11-27 01:54:03 INFO  TC001_AccountRegistration:24 - ****clicked on Register link****
-2024-11-27 01:54:03 INFO  TC001_AccountRegistration:28 - ****Entering_User_info****
-2024-11-27 01:54:05 ERROR TC001_AccountRegistration:53 - Test failed: Unable to locate element: //input[@id='input-firstname']
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Build info: version: '4.20.0', revision: '866c76ca80'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Command: [46cf62bd-a904-4c3a-be9c-ca58f08c887f, findElement {value=//input[@id='input-firstname'], using=xpath}]
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 133.0, moz:accessibilityChecks: false, moz:buildID: 20241121140525, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 23316, moz:profile: C:\Users\asus\AppData\Local..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
-Session ID: 46cf62bd-a904-4c3a-be9c-ca58f08c887f
-2024-11-27 01:54:05 INFO  TC001_AccountRegistration:59 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-27 01:54:48 INFO  Utils:112 - [TestNG] Running:
-  E:\PracticeFramework\OpenCartEcommerceProject\CrossBrowsing.xml
-
-2024-11-27 01:54:54 INFO  TC001_AccountRegistration:15 - ****Starting_Registration****
-2024-11-27 01:54:54 INFO  TC001_AccountRegistration:15 - ****Starting_Registration****
-2024-11-27 01:54:54 INFO  TC001_AccountRegistration:21 - ****clicked on MyAccount link****
-2024-11-27 01:54:54 INFO  TC001_AccountRegistration:21 - ****clicked on MyAccount link****
-2024-11-27 01:54:54 ERROR TC001_AccountRegistration:53 - Test failed: Element <a href="https://tutorialsninja.com/demo/index.php?route=account/register"> could not be scrolled into view
-Build info: version: '4.20.0', revision: '866c76ca80'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Command: [505eaa59-d213-4d1c-92df-957e6934235c, clickElement {id=cc2dd30f-068e-4505-92f5-73880c9ad280}]
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 133.0, moz:accessibilityChecks: false, moz:buildID: 20241121140525, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 17736, moz:profile: C:\Users\asus\AppData\Local..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
-Element: [[FirefoxDriver: firefox on windows (505eaa59-d213-4d1c-92df-957e6934235c)] -> xpath: //a[text()='Register']]
-Session ID: 505eaa59-d213-4d1c-92df-957e6934235c
-2024-11-27 01:54:54 ERROR TC001_AccountRegistration:53 - Test failed: Element <a href="https://tutorialsninja.com/demo/index.php?route=account/register"> could not be scrolled into view
-Build info: version: '4.20.0', revision: '866c76ca80'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Command: [505eaa59-d213-4d1c-92df-957e6934235c, clickElement {id=cc2dd30f-068e-4505-92f5-73880c9ad280}]
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 133.0, moz:accessibilityChecks: false, moz:buildID: 20241121140525, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 17736, moz:profile: C:\Users\asus\AppData\Local..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
-Element: [[FirefoxDriver: firefox on windows (505eaa59-d213-4d1c-92df-957e6934235c)] -> xpath: //a[text()='Register']]
-Session ID: 505eaa59-d213-4d1c-92df-957e6934235c
-2024-11-27 01:54:54 INFO  TC001_AccountRegistration:59 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-27 01:54:54 INFO  TC001_AccountRegistration:59 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-27 01:55:39 INFO  Utils:112 - [TestNG] Running:
-  E:\PracticeFramework\OpenCartEcommerceProject\CrossBrowsing.xml
-
-2024-11-27 01:55:45 INFO  TC001_AccountRegistration:15 - ****Starting_Registration****
-2024-11-27 01:55:45 INFO  TC001_AccountRegistration:15 - ****Starting_Registration****
-2024-11-27 01:55:45 INFO  TC001_AccountRegistration:21 - ****clicked on MyAccount link****
-2024-11-27 01:55:45 INFO  TC001_AccountRegistration:21 - ****clicked on MyAccount link****
-2024-11-27 01:55:45 ERROR TC001_AccountRegistration:53 - Test failed: Element <a href="https://tutorialsninja.com/demo/index.php?route=account/register"> could not be scrolled into view
-Build info: version: '4.20.0', revision: '866c76ca80'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Command: [b7346f91-085d-4d98-8506-f26b0ca26c5f, clickElement {id=2bd9bdd1-2764-4dd5-9599-917e7a3d0682}]
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 133.0, moz:accessibilityChecks: false, moz:buildID: 20241121140525, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 30256, moz:profile: C:\Users\asus\AppData\Local..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
-Element: [[FirefoxDriver: firefox on windows (b7346f91-085d-4d98-8506-f26b0ca26c5f)] -> xpath: //a[text()='Register']]
-Session ID: b7346f91-085d-4d98-8506-f26b0ca26c5f
-2024-11-27 01:55:45 ERROR TC001_AccountRegistration:53 - Test failed: Element <a href="https://tutorialsninja.com/demo/index.php?route=account/register"> could not be scrolled into view
-Build info: version: '4.20.0', revision: '866c76ca80'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Command: [b7346f91-085d-4d98-8506-f26b0ca26c5f, clickElement {id=2bd9bdd1-2764-4dd5-9599-917e7a3d0682}]
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 133.0, moz:accessibilityChecks: false, moz:buildID: 20241121140525, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 30256, moz:profile: C:\Users\asus\AppData\Local..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
-Element: [[FirefoxDriver: firefox on windows (b7346f91-085d-4d98-8506-f26b0ca26c5f)] -> xpath: //a[text()='Register']]
-Session ID: b7346f91-085d-4d98-8506-f26b0ca26c5f
-2024-11-27 01:55:45 INFO  TC001_AccountRegistration:59 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-27 01:55:45 INFO  TC001_AccountRegistration:59 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-27 01:57:24 INFO  Utils:112 - [TestNG] Running:
-  E:\PracticeFramework\OpenCartEcommerceProject\Grouping.xml
-
-2024-11-27 01:57:29 INFO  TC001_AccountRegistration:15 - ****Starting_Registration****
-2024-11-27 01:57:30 INFO  TC001_AccountRegistration:21 - ****clicked on MyAccount link****
-2024-11-27 01:57:30 INFO  TC001_AccountRegistration:24 - ****clicked on Register link****
-2024-11-27 01:57:30 INFO  TC001_AccountRegistration:28 - ****Entering_User_info****
-2024-11-27 01:57:31 INFO  TC001_AccountRegistration:39 - ****click on policy****
-2024-11-27 01:57:31 INFO  TC001_AccountRegistration:42 - ****click on Continue****
-2024-11-27 01:57:31 INFO  TC001_AccountRegistration:44 - Validating expected message..
-2024-11-27 01:57:32 INFO  TC001_AccountRegistration:48 - Test passed
-2024-11-27 01:57:32 INFO  TC001_AccountRegistration:59 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-27 02:07:19 INFO  Utils:112 - [TestNG] Running:
-  E:\PracticeFramework\OpenCartEcommerceProject\testng.xml
-
-2024-11-27 02:07:23 INFO  TC001_AccountRegistration:15 - ****Starting_Registration****
-2024-11-27 02:07:23 INFO  TC001_AccountRegistration:21 - ****clicked on MyAccount link****
-2024-11-27 02:07:24 INFO  TC001_AccountRegistration:24 - ****clicked on Register link****
-2024-11-27 02:07:24 INFO  TC001_AccountRegistration:28 - ****Entering_User_info****
-2024-11-27 02:07:24 INFO  TC001_AccountRegistration:39 - ****click on policy****
-2024-11-27 02:07:25 INFO  TC001_AccountRegistration:42 - ****click on Continue****
-2024-11-27 02:07:25 INFO  TC001_AccountRegistration:44 - Validating expected message..
-2024-11-27 02:07:25 INFO  TC001_AccountRegistration:59 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-27 02:08:51 INFO  Utils:112 - [TestNG] Running:
-  E:\PracticeFramework\OpenCartEcommerceProject\testng.xml
-
-2024-11-27 02:08:55 INFO  TC001_AccountRegistration:15 - ****Starting_Registration****
-2024-11-27 02:08:55 INFO  TC001_AccountRegistration:21 - ****clicked on MyAccount link****
-2024-11-27 02:08:56 INFO  TC001_AccountRegistration:24 - ****clicked on Register link****
-2024-11-27 02:08:56 INFO  TC001_AccountRegistration:28 - ****Entering_User_info****
-2024-11-27 02:08:56 INFO  TC001_AccountRegistration:39 - ****click on policy****
-2024-11-27 02:08:57 INFO  TC001_AccountRegistration:42 - ****click on Continue****
-2024-11-27 02:08:57 INFO  TC001_AccountRegistration:44 - Validating expected message..
-2024-11-27 02:08:57 INFO  TC001_AccountRegistration:59 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-27 02:10:15 INFO  Utils:112 - [TestNG] Running:
-  E:\PracticeFramework\OpenCartEcommerceProject\testng.xml
-
-2024-11-27 02:10:20 INFO  TC001_AccountRegistration:15 - ****Starting_Registration****
-2024-11-27 02:10:20 INFO  TC001_AccountRegistration:21 - ****clicked on MyAccount link****
-2024-11-27 02:10:21 INFO  TC001_AccountRegistration:24 - ****clicked on Register link****
-2024-11-27 02:10:21 INFO  TC001_AccountRegistration:28 - ****Entering_User_info****
-2024-11-27 02:10:21 INFO  TC001_AccountRegistration:39 - ****click on policy****
-2024-11-27 02:10:22 INFO  TC001_AccountRegistration:42 - ****click on Continue****
-2024-11-27 02:10:22 INFO  TC001_AccountRegistration:44 - Validating expected message..
-2024-11-27 02:10:22 INFO  TC001_AccountRegistration:48 - Test passed
-2024-11-27 02:10:22 INFO  TC001_AccountRegistration:59 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-27 02:10:42 INFO  Utils:112 - [TestNG] Running:
-  E:\PracticeFramework\OpenCartEcommerceProject\testng.xml
-
-2024-11-27 02:10:45 INFO  TC001_AccountRegistration:15 - ****Starting_Registration****
-2024-11-27 02:10:45 INFO  TC001_AccountRegistration:21 - ****clicked on MyAccount link****
-2024-11-27 02:10:46 INFO  TC001_AccountRegistration:24 - ****clicked on Register link****
-2024-11-27 02:10:46 INFO  TC001_AccountRegistration:28 - ****Entering_User_info****
-2024-11-27 02:10:46 INFO  TC001_AccountRegistration:39 - ****click on policy****
-2024-11-27 02:10:47 INFO  TC001_AccountRegistration:42 - ****click on Continue****
-2024-11-27 02:10:47 INFO  TC001_AccountRegistration:44 - Validating expected message..
-2024-11-27 02:10:47 INFO  TC001_AccountRegistration:59 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-27 02:11:35 INFO  Utils:112 - [TestNG] Running:
-  E:\PracticeFramework\OpenCartEcommerceProject\testng.xml
-
-2024-11-27 02:11:38 INFO  TC001_AccountRegistration:15 - ****Starting_Registration****
-2024-11-27 02:11:38 INFO  TC001_AccountRegistration:21 - ****clicked on MyAccount link****
-2024-11-27 02:11:39 INFO  TC001_AccountRegistration:24 - ****clicked on Register link****
-2024-11-27 02:11:39 INFO  TC001_AccountRegistration:28 - ****Entering_User_info****
-2024-11-27 02:11:39 INFO  TC001_AccountRegistration:39 - ****click on policy****
-2024-11-27 02:11:40 INFO  TC001_AccountRegistration:42 - ****click on Continue****
-2024-11-27 02:11:40 INFO  TC001_AccountRegistration:44 - Validating expected message..
-2024-11-27 02:11:40 INFO  TC001_AccountRegistration:48 - Test passed
-2024-11-27 02:11:40 INFO  TC001_AccountRegistration:59 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-27 02:17:06 INFO  Utils:112 - [TestNG] Running:
-  E:\PracticeFramework\OpenCartEcommerceProject\testng.xml
-
-2024-11-27 02:17:10 INFO  TC001_AccountRegistration:15 - ****Starting_Registration****
-2024-11-27 02:17:10 INFO  TC001_AccountRegistration:21 - ****clicked on MyAccount link****
-2024-11-27 02:17:11 INFO  TC001_AccountRegistration:24 - ****clicked on Register link****
-2024-11-27 02:17:11 INFO  TC001_AccountRegistration:28 - ****Entering_User_info****
-2024-11-27 02:17:11 INFO  TC001_AccountRegistration:39 - ****click on policy****
-2024-11-27 02:17:12 INFO  TC001_AccountRegistration:42 - ****click on Continue****
-2024-11-27 02:17:12 INFO  TC001_AccountRegistration:44 - Validating expected message..
-2024-11-27 02:17:12 INFO  TC001_AccountRegistration:59 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-27 02:17:43 INFO  Utils:112 - [TestNG] Running:
-  E:\PracticeFramework\OpenCartEcommerceProject\testng.xml
-
-2024-11-27 02:17:47 INFO  TC001_AccountRegistration:15 - ****Starting_Registration****
-2024-11-27 02:17:47 INFO  TC001_AccountRegistration:21 - ****clicked on MyAccount link****
-2024-11-27 02:17:47 INFO  TC001_AccountRegistration:24 - ****clicked on Register link****
-2024-11-27 02:17:47 INFO  TC001_AccountRegistration:28 - ****Entering_User_info****
-2024-11-27 02:17:48 INFO  TC001_AccountRegistration:39 - ****click on policy****
-2024-11-27 02:17:49 INFO  TC001_AccountRegistration:42 - ****click on Continue****
-2024-11-27 02:17:49 INFO  TC001_AccountRegistration:44 - Validating expected message..
-2024-11-27 02:17:49 INFO  TC001_AccountRegistration:59 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-27 02:18:37 INFO  Utils:112 - [TestNG] Running:
-  E:\PracticeFramework\OpenCartEcommerceProject\testng.xml
-
-2024-11-27 02:18:40 INFO  TC001_AccountRegistration:15 - ****Starting_Registration****
-2024-11-27 02:18:40 INFO  TC001_AccountRegistration:21 - ****clicked on MyAccount link****
-2024-11-27 02:18:41 INFO  TC001_AccountRegistration:24 - ****clicked on Register link****
-2024-11-27 02:18:41 INFO  TC001_AccountRegistration:28 - ****Entering_User_info****
-2024-11-27 02:18:41 INFO  TC001_AccountRegistration:39 - ****click on policy****
-2024-11-27 02:18:42 INFO  TC001_AccountRegistration:42 - ****click on Continue****
-2024-11-27 02:18:42 INFO  TC001_AccountRegistration:44 - Validating expected message..
-2024-11-27 02:18:42 INFO  TC001_AccountRegistration:48 - Test passed
-2024-11-27 02:18:42 INFO  TC001_AccountRegistration:59 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-27 10:22:27 INFO  Utils:112 - [TestNG] Running:
-  E:\PracticeFramework\OpenCartEcommerceProject\testng.xml
-
-2024-11-27 10:22:34 INFO  TC001_AccountRegistration:15 - ****Starting_Registration****
-2024-11-27 10:22:34 INFO  TC001_AccountRegistration:21 - ****clicked on MyAccount link****
-2024-11-27 10:22:35 INFO  TC001_AccountRegistration:24 - ****clicked on Register link****
-2024-11-27 10:22:35 INFO  TC001_AccountRegistration:28 - ****Entering_User_info****
-2024-11-27 10:22:35 INFO  TC001_AccountRegistration:39 - ****click on policy****
-2024-11-27 10:22:36 INFO  TC001_AccountRegistration:42 - ****click on Continue****
-2024-11-27 10:22:36 INFO  TC001_AccountRegistration:44 - Validating expected message..
-2024-11-27 10:22:36 INFO  TC001_AccountRegistration:48 - Test passed
-2024-11-27 10:22:36 INFO  TC001_AccountRegistration:59 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-27 10:22:53 INFO  Utils:112 - [TestNG] Running:
-  E:\PracticeFramework\OpenCartEcommerceProject\testng.xml
-
-2024-11-27 10:22:57 INFO  TC001_AccountRegistration:15 - ****Starting_Registration****
-2024-11-27 10:22:57 INFO  TC001_AccountRegistration:21 - ****clicked on MyAccount link****
-2024-11-27 10:22:59 INFO  TC001_AccountRegistration:24 - ****clicked on Register link****
-2024-11-27 10:22:59 INFO  TC001_AccountRegistration:28 - ****Entering_User_info****
-2024-11-27 10:23:00 INFO  TC001_AccountRegistration:39 - ****click on policy****
-2024-11-27 10:23:01 INFO  TC001_AccountRegistration:42 - ****click on Continue****
-2024-11-27 10:23:01 INFO  TC001_AccountRegistration:44 - Validating expected message..
-2024-11-27 10:23:01 INFO  TC001_AccountRegistration:48 - Test passed
-2024-11-27 10:23:01 INFO  TC001_AccountRegistration:59 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-28 00:53:53 INFO  TC004_LoginDDT:18 - ***** stating TC_003_LoginDDT ******
+2024-11-28 00:53:56 INFO  TC004_LoginDDT:18 - ***** stating TC_003_LoginDDT ******
+2024-11-28 00:53:58 INFO  TC004_LoginDDT:18 - ***** stating TC_003_LoginDDT ******
+2024-11-28 00:53:59 INFO  TC004_LoginDDT:18 - ***** stating TC_003_LoginDDT ******
+2024-11-28 00:54:10 INFO  TC004_LoginDDT:18 - ***** stating TC_003_LoginDDT ******
+2024-11-28 00:54:12 INFO  TC004_LoginDDT:18 - ***** stating TC_003_LoginDDT ******

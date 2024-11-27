@@ -18,6 +18,9 @@ public class HomePage extends PageBase {
 	@FindBy(xpath="//a[text()='Register']")
 	WebElement ClkRegister;
 	
+	@FindBy(xpath="//a[text()='Login']")
+	WebElement ClkLogin;
+	
 	public void ClkMyAccount()
 	{
 		ClkMyaccount.click();	
@@ -26,6 +29,11 @@ public class HomePage extends PageBase {
 	public void ClkRegister()
 	{
 		ClkRegister.click();
+	}
+	
+	public void ClkLogin()
+	{
+		ClkLogin.click();
 	}
 	
 }
